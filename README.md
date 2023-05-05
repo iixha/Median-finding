@@ -24,7 +24,7 @@ QuickSort Algorithm
 Selection_Sort
 Median finding
 
-### Libraries:
+## Libraries:
 numpy
 time module 
 
