@@ -28,9 +28,3 @@ Median finding
 numpy
 time module 
 
-## Authors
-Hana Shaikh Ali Haji
-Areej Saud Al Qurashi
-Maram Hussein Alfham
-Raghad Omar Bazaraah
-Maram Abdullah Khoaj
