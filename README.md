@@ -25,6 +25,6 @@ Selection_Sort
 Median finding
 
 ## Libraries:
-numpy
-time module 
+numpy.
+time module .
 
