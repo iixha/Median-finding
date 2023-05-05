@@ -23,9 +23,11 @@ This folder also contain three folder and inside each folder there are code file
 QuickSort Algorithm
 
 Selection_Sort
+
 Median finding
 
 ## Libraries:
 numpy.
+
 time module .
 
