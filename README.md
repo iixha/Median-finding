@@ -16,19 +16,19 @@ https://github.com/spyder-ide/spyder/releases/latest/download/Spyder_64bit_full.
 
 ** can use any editor that supports Python**
 
-##How to Open the Project:
+## How to Open the Project:
 Open the folder "PROJECT ALGORITHM"
 This folder also contain three folder and inside each folder there are code file,data file and REPORT for project.
-##Algorithms
+## Algorithms
 QuickSort Algorithm
 Selection_Sort
 Median finding
 
-#Libraries:
+### Libraries:
 numpy
 time module 
 
-Authors
+## Authors
 Hana Shaikh Ali Haji
 Areej Saud Al Qurashi
 Maram Hussein Alfham
