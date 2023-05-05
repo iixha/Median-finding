@@ -4,10 +4,10 @@ Note : The data used in this project are the ages of approximately 100,000 peopl
 ##programming language
 Python
 
-##Objective
+# Objective
 The main goal of the project is to compare the Sorting algorithms in finding the median.
 
-##IDE to Start the Project:
+## IDE to Start the Project:
 Spyder IDE
 
 Download Link:
