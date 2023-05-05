@@ -21,6 +21,7 @@ Open the folder "PROJECT ALGORITHM"
 This folder also contain three folder and inside each folder there are code file,data file and REPORT for project.
 ## Algorithms
 QuickSort Algorithm
+
 Selection_Sort
 Median finding
 
